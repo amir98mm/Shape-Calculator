@@ -1,0 +1,6 @@
+circle 3.5
+rectangle 2 4
+rectangle 5 6
+circle 10
+circle 2
+circle 4
